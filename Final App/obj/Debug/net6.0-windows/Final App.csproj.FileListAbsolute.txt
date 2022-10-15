@@ -1,0 +1,20 @@
+C:\Users\Cody\Desktop\Final App\Final App\bin\Debug\net6.0-windows\Final App.exe
+C:\Users\Cody\Desktop\Final App\Final App\bin\Debug\net6.0-windows\Final App.deps.json
+C:\Users\Cody\Desktop\Final App\Final App\bin\Debug\net6.0-windows\Final App.runtimeconfig.json
+C:\Users\Cody\Desktop\Final App\Final App\bin\Debug\net6.0-windows\Final App.dll
+C:\Users\Cody\Desktop\Final App\Final App\bin\Debug\net6.0-windows\Final App.pdb
+C:\Users\Cody\Desktop\Final App\Final App\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Cody\Desktop\Final App\Final App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\Final App.csproj.AssemblyReference.cache
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\Final_App.Form1.resources
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\Final App.csproj.GenerateResource.cache
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\Final App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\Final App.AssemblyInfoInputs.cache
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\Final App.AssemblyInfo.cs
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\Final App.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\Final App.csproj.CopyComplete
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\Final App.dll
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\refint\Final App.dll
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\Final App.pdb
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\Final App.genruntimeconfig.cache
+C:\Users\Cody\Desktop\Final App\Final App\obj\Debug\net6.0-windows\ref\Final App.dll
